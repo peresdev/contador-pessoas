@@ -1,0 +1,4 @@
+#Thu Jan 24 21:39:28 BRST 2019
+base.0=/Users/leandroperes/FlutterProjects/contador_pessoas/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
